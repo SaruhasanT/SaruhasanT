@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saruhasan Thavachelvan</h1>
-<img src="https://img.freepik.com/premium-vector/programmer-working-web-development-computer-screen-software-engineering-script-coding-programming-language-hand-drawn-vector-illustration-isolated-light-background-flat-cartoon-style_318237-377.jpg"/>
+<img style="width: 100px" src="https://img.freepik.com/premium-vector/programmer-working-web-development-computer-screen-software-engineering-script-coding-programming-language-hand-drawn-vector-illustration-isolated-light-background-flat-cartoon-style_318237-377.jpg"/>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **Spotity Clone**
